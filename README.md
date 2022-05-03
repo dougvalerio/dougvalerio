@@ -8,10 +8,12 @@
   <a href="https://www.instagram.com/doug.valerio/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+##
+
 <div align="center">
   <a href="https://github.com/dougvalerio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougvalerio&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvalerio&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dougvalerio&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dougvalerio&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
    
 <div style="display: inline_block" align="center"><br>
